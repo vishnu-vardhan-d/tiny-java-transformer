@@ -1,4 +1,4 @@
-# Jamna · Java Neural Nets
+# Java Tiny Tranformer
 
 A mini **Transformer / LLM engine** built from scratch in **pure Java** — no libraries,
 not even a math one. Jamna learns to sort numbers the way a language model learns to
